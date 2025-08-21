@@ -16,6 +16,6 @@ I can help with:
 	•	Content generation to support communication and engagement
 	•	Tailored workflows that integrate seamlessly into existing systems
 
-📧 Email me  or 💼 Connect on LinkedIn
+[📧 Email me](mailto:alison@alisoncrosthwait.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/alison-crosthwait)
 
 Based in Toronto area | Available for consulting and custom AI development
