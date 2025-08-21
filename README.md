@@ -1,5 +1,12 @@
-# ai-agent-portfolio
-AI Agent Portfolio for Alison Crosthwait
+
+# AI Agent Portfolio for Alison Crosthwait
+
+# About Me
+
+
+# Portfolio of AI Agents
+
+# Contact Me
 
 I help organizations apply AI to real operational challenges. My focus is on building practical solutions that cut through complexity and deliver measurable value at scale. Whether it’s automating processes, generating insights, or creating custom workflows, I design tools that fit the needs of enterprise teams.
 
